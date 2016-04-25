@@ -32,7 +32,7 @@ nav {float:left;width:150px;min-height:300px;}
 
 aside {float:left;width:800px;tetx-align:jusitfy;min-height:300px;}
 
-footer {background:#999999;height:100px;color:white;}
+footer {background:#999999;height:100px;color:white;padding:10px;}
 
 ul {list-style-type: none;font-size:16px;}
 
