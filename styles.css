@@ -23,16 +23,16 @@ a:active {color:white;}
 a:visited {color:white;}
 
 img.logo {width:150px;}
-
+S
 .header-left {float:left;padding-right:10px;}
 
 .header-right {float:left;position:relative;top:-10px;}
 
-nav {float:left;width:150px;min-height:300px;background:#EEEEEE;}
+nav {float:left;width:150px;min-height:300px;background:#CCCCCC;}
 
 aside {float:left;width:800px;tetx-align:jusitfy;min-height:300px;}
 
-footer {background:#EEEEEE;height:100px;color:white;padding:10px;}
+footer {background:#CCCCCC;height:100px;color:white;padding:10px;}
 
 ul {list-style-type: none;font-size:16px;position:relative;left:-30px;}
 
