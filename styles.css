@@ -17,7 +17,7 @@ h2 {font-size:24px;font-weight:normal;position:relative;top:-10px;}
 
 p {line-height: normal;}
 
-a:link {color:navy;text-decoration:none;}
+a:link {color:navy;text-decoration:none;line-height:12px;}
 a:hover {color:navy;text-decoration:underline;}
 a:active {color:navy;}
 a:visited {color:navy;}
