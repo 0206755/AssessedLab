@@ -30,9 +30,11 @@ img.logo {width:150px;}
 
 nav {float:left;width:150px;}
 
-section {float:left;width:800px;}
+section {float:left;width:800px;tetx-align:jusitfy;}
 
 footer {background:#999999;}
+
+ul {list-style-type: none;}
 
 
 
