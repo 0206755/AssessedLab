@@ -11,7 +11,7 @@ h1 {
     font-size:32px;font-weight:bold;
 }
 
-h2 {font-size:24px;}
+h2 {font-size:24px;font-weight:normal;}
 
 p {line-height: normal;}
 
@@ -22,7 +22,7 @@ a:visited {color:navy;}
 
 img.logo {width:150px;}
 
-.header-left {float:left;padding-left:40px;}
+.header-left {float:left;padding-right:40px;}
 
 .header-right {float:left;}
 
