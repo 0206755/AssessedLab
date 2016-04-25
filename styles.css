@@ -5,6 +5,8 @@ body {
     background:#ffffff;
 }
 
+header {background:grey;}
+
 h1 {
     font-size:32px;float:left;font-weight:bold;
 }
@@ -18,7 +20,13 @@ a:hover {color:navy;text-decoration:underline;}
 a:active {color:navy;}
 a:visited {color:navy;}
 
-img.logo {width:150px;float:left;padding-left:20px;}
+img.logo {width:150px;float:left;padding-left:40px;}
+
+nav {float:left;width:150px;}
+
+section {float:left;}
+
+footer {background:grey;}
 
 
 
