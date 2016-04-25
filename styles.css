@@ -1,0 +1,22 @@
+body {
+    width:1080px;
+    font-family: sans-serif;
+    font-size: 12px;
+    background:#ffffff;
+}
+
+h1 {
+    font-size:16px;
+}
+
+p {line-height: normal;}
+
+a:link {color:navy;}
+a:hover {color:navy;text-decoration:underline;}
+a:active {color:navy;}
+a:visited {color:navy;}
+
+img.logo {width:200px;}
+
+
+
