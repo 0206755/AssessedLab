@@ -30,7 +30,7 @@ img.logo {width:150px;}
 
 nav {float:left;width:150px;height:600px;}
 
-aside {float:left;width:800px;tetx-align:jusitfy;height:600px;}
+aside {float:left;width:800px;tetx-align:jusitfy;min-height:300px;}
 
 footer {background:#999999;height:100px;color:white;}
 
