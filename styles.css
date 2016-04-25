@@ -22,9 +22,9 @@ a:visited {color:navy;}
 
 img.logo {width:150px;}
 
-.header-left {float:left;padding-right:40px;}
+.header-left {float:left;padding-right:10px;}
 
-.header-right {float:left;}
+.header-right {float:left;position:relative;top:-10px;}
 
 nav {float:left;width:150px;}
 
