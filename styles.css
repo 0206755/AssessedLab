@@ -28,11 +28,11 @@ img.logo {width:150px;}
 
 .header-right {float:left;position:relative;top:-10px;}
 
-nav {float:left;width:150px;}
+nav {float:left;width:150px;height:600px;}
 
 aside {float:left;width:800px;tetx-align:jusitfy;height:600px;}
 
-footer {background:#999999;height:100px;}
+footer {background:#999999;height:100px;color:white;}
 
 ul {list-style-type: none;font-size:16px;}
 
