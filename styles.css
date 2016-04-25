@@ -28,7 +28,7 @@ img.logo {width:150px;}
 
 .header-right {float:left;position:relative;top:-10px;}
 
-nav {float:left;width:150px;height:600px;}
+nav {float:left;width:150px;min-height:300px;}
 
 aside {float:left;width:800px;tetx-align:jusitfy;min-height:300px;}
 
