@@ -18,10 +18,10 @@ h2 {font-size:24px;font-weight:normal;position:relative;top:-10px;}
 
 p {line-height: normal;}
 
-a:link {color:white;text-decoration:none;}
-a:hover {color:white;text-decoration:underline;}
-a:active {color:white;}
-a:visited {color:white;}
+a:link {color:navy;text-decoration:none;}
+a:hover {color:navy;text-decoration:underline;}
+a:active {color:navy;}
+a:visited {color:navy;}
 
 img.logo {width:150px;}
 S
